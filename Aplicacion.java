@@ -15,6 +15,7 @@ public class Aplicacion {
         System.out.println("El numero 18 es primo: " + primo);
         System.out.println(reversaString);
         System.out.println("La palabra es un palindromo "  + palindromo);
+        alg.secuenciaFizzBuzz(25);
     }
 
 }
